@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "///",
+      "/+/",
+      "///"
+    ],
+    "key": {
+      "/": {
+        "item": "minecraft:chain"
+      },
+      "+": {
+        "item": "minecraft:nether_star"
+      }
+    },
+    "result": {
+      "item": "minecraft:spawner",
+      "count": 1
+    }
+}

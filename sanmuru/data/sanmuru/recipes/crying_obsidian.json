@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "vvv",
+      "vOv",
+      "vvv"
+    ],
+    "key": {
+      "O": {
+        "item": "minecraft:obsidian"
+      },
+      "v": {
+        "item": "minecraft:ghast_tear"
+      }
+    },
+    "result": {
+      "item": "minecraft:crying_obsidian",
+      "count": 1
+    }
+}

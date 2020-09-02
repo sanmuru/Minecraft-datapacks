@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "tag": "sanmuru:coral_blocks"
+    },
+    "result": "minecraft:sponge",
+    "experience": 0.7,
+    "cookingtime": 400
+}

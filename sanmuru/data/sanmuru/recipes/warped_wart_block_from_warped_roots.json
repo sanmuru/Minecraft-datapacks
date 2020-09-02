@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "minecraft:nether_wart_block"
+      },
+      {
+        "item": "minecraft:warped_roots"
+      },
+      {
+        "item": "minecraft:warped_roots"
+      },
+      {
+        "item": "minecraft:warped_roots"
+      },
+      {
+        "item": "minecraft:warped_roots"
+      },
+      {
+        "item": "minecraft:warped_roots"
+      },
+      {
+        "item": "minecraft:warped_roots"
+      }
+    ],
+    "result": {
+      "item": "minecraft:warped_wart_block",
+      "count": 1
+    }
+  }
